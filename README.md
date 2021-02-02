@@ -40,3 +40,7 @@
 ### Dev Config
 
 1.  Uncomment devtool option in webpack.config.dev.js for fine grained debugging
+
+## Testing the Project
+
+`jest` and `jest-cli` are installed as dev dependencies
